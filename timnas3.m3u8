@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:1,
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2724.ts
+#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#http://xtv.ooo:8080/live/Nadeemali01/098765/350972.ts
+#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
