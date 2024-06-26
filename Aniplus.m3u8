@@ -1,2 +1,5 @@
-
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
 http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/298504.ts
