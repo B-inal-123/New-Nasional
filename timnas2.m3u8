@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
 #EXTINF:1,
-http://mykingtv.net:2082/live/zaki880/8890/5117.ts
-http://mykingtv.net:2082/live/Bae810/ktv9399/5117.ts
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
