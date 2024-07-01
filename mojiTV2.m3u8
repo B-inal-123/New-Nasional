@@ -4,6 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://xtv.ooo:8080/live/Faisal0333/Adnan2148703/350997.ts
-#EXTINF:2,
 http://aflaxtv.xyz:8080/live/F21312/b9181c9b/298550.ts
