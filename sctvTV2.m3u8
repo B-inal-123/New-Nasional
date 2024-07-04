@@ -4,5 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://mykingtv.net:2082/live/Bae810/ktv9399/5147.ts
 http://mykingtv.net:2082/live/along88/8890/5147.ts
+http://mykingtv.net:2082/live/Bae810/ktv9399/5147.ts
+
