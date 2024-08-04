@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37428.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5175&deviceMac=00:1A:79:E5:A9:30
