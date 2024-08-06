@@ -4,6 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298529.ts
-#EXTINF:1,
-http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/298529.ts
+http://venomousent.xyz:80/play/live.php?mac=00:1A:79:75:5C:E3&stream=1152242&extension=ts
+#http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298529.ts
+#http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/298529.ts
