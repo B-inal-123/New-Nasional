@@ -4,4 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5175&deviceMac=00:1A:79:E5:A9:30
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/298528.ts
+#http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5175&deviceMac=00:1A:79:E5:A9:30
