@@ -4,6 +4,9 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts
 #http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162141.ts
 #http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/162141.ts
