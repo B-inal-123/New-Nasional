@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",INDOSIAR (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://indahtv.net/vidio/hls.m3u8?id=205
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-nba" group-title="Vidio",NBA HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6717&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6717
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",SCTV(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://indahtv.net/vidio/hls.m3u8?id=204
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Moji (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://indahtv.net/vidio/hls.m3u8?id=206
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Horee (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=6397
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Trans 7 (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=734
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Trans TV (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=733
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",AJWA TV (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=7464
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",ANTV (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=782
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",i Radio (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=7057
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Mentari(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=8372
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Metro(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=777
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Musica(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=7619
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Net(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=875
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",TV one(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=783
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Zomoo(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=6533
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Kompas(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=874
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Tvn(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=6362
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Hip Hip Horee(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indahtv.net/vidio/hls.m3u8?id=7052
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 1 (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6685&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6685
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 2 (MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6686&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6686
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6786&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6786
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=9182&type=drm
+https://indahtv.net/vidio/dash.mpd?id=9182
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=9183&type=drm
+https://indahtv.net/vidio/dash.mpd?id=9183
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6299&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6299
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=6317&type=drm
+https://indahtv.net/vidio/dash.mpd?id=6317
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=9353&type=drm
+https://indahtv.net/vidio/dash.mpd?id=9353
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Spotv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17139&type=drm
+https://indahtv.net/vidio/dash.mpd?id=17139
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Spotv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17140&type=drm
+https://indahtv.net/vidio/dash.mpd?id=17140
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/3bWP-616EoDLTa8ysrHfFo7SzbM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3474787/23d2d7.jpg",indosiar live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=205&type=drm
+https://indahtv.net/vidio/dash.mpd?id=205
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/3bWP-616EoDLTa8ysrHfFo7SzbM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3474787/23d2d7.jpg",indosiar live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=8241&type=drm
+https://indahtv.net/vidio/dash.mpd?id=8241
