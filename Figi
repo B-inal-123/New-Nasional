@@ -152,16 +152,16 @@ https://indahtv.net/vidio/dash.mpd?id=9353
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17139&type=drm
-https://indahtv.net/vidio/dash.mpd?id=17139
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17139&type=hls
+https://indahtv.net/vidio/dash.m3u8?id=17139
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Spotv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17140&type=drm
-https://indahtv.net/vidio/dash.mpd?id=17140
+#KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=17140&type=hls
+https://indahtv.net/vidio/dash.m3u8?id=17140
 
 #EXTINF:-1 group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/3bWP-616EoDLTa8ysrHfFo7SzbM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3474787/23d2d7.jpg",indosiar live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -179,12 +179,9 @@ https://indahtv.net/vidio/dash.mpd?id=205
 #KODIPROP:inputstream.adaptive.license_key=https://indahtv.net/vidio/index.php?id=8241&type=drm
 https://indahtv.net/vidio/dash.mpd?id=8241
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",Champ TV 1 (MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red.php?id=6685&type=drm
-https://dusk.biz.id/red/dash.mpd?id=6685
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Vidio",SCTV(HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://dusk.biz.id/vidio/hls.m3u8?id=205
 
